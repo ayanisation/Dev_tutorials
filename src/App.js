@@ -21,6 +21,8 @@ function App() {
         <Route exact path="/service" component={Service} />
         <Redirect to="/" />
       </Switch>
+      <br/>
+      <br/>
     </>
   );
 }

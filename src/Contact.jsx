@@ -61,7 +61,7 @@ const Contact = () => {
   };
 
   return (
-    <div style={{ padding: "0 20rem 5rem " }} className="container">
+    <div className="container">
       <div className={al.cname} role={al.rname}>
         {al.message}
       </div>

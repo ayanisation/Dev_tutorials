@@ -123,8 +123,6 @@
   
 }
 .shade{
-  width: 25rem;
-  height: 27rem;
   box-shadow: 10px 10px 8px #888888;
   border-radius: 2rem;
 }
