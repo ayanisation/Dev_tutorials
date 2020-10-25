@@ -6,8 +6,8 @@ import "./App.css";
 function Common(props) {
   return (
     <>
-      <section id="header" className="d-flex align-items-center mb-4">
-        <div className="container-fluid ">
+      <section id="header" className="d-flex align-items-center">
+        <div className="container-fluid mb-3">
           <div className="row">
             <div className="col-10 mx-auto">
               <div className="row">
